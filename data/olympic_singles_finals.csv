@@ -1,0 +1,151 @@
+year,event,distance_m,final_rank,rower,nation,time_str,time_sec,city
+1976,Men's,2000,1,Pertti Karppinen,Finland,7:29.03,449.03,Montreal
+1976,Men's,2000,2,Peter-Michael Kolbe,West Germany,7:31.67,451.67,Montreal
+1976,Men's,2000,3,Joachim Dreifke,East Germany,7:38.03,458.03,Montreal
+1976,Men's,2000,4,Sean Drea,Ireland,7:42.53,462.53,Montreal
+1976,Men's,2000,5,Mykola Dovhan,Soviet Union,7:57.39,477.39,Montreal
+1976,Men's,2000,6,Ricardo Ibarra,Argentina,8:03.35,483.35,Montreal
+1976,Women's,1000,1,Christine Scheiblich,East Germany,4:05.56,245.56,Montreal
+1976,Women's,1000,2,Joan Lind,United States,4:06.21,246.21,Montreal
+1976,Women's,1000,3,Yelena Antonova,Soviet Union,4:10.24,250.24,Montreal
+1976,Women's,1000,4,Rositsa Spasova,Bulgaria,4:10.86,250.86,Montreal
+1976,Women's,1000,5,Ingrid Munneke-Dusseldorp,Netherlands,4:18.71,258.71,Montreal
+1976,Women's,1000,6,Mariann Ambrus,Hungary,4:22.59,262.59,Montreal
+1980,Men's,2000,1,Pertti Karppinen,Finland,7:09.61,429.61,Moscow
+1980,Men's,2000,2,Vasil Yakusha,Soviet Union,7:11.66,431.66,Moscow
+1980,Men's,2000,3,Peter Kersten,East Germany,7:14.88,434.88,Moscow
+1980,Men's,2000,4,Vladek Lacina,Czechoslovakia,7:17.57,437.57,Moscow
+1980,Men's,2000,5,Hans Svensson,Sweden,7:19.38,439.38,Moscow
+1980,Men's,2000,6,Hugh Matheson,Great Britain,7:20.28,440.28,Moscow
+1980,Women's,1000,1,Sanda Toma,Romania,3:40.69,220.69,Moscow
+1980,Women's,1000,2,Antonina Makhina,Soviet Union,3:41.65,221.65,Moscow
+1980,Women's,1000,3,Martina Schröter,East Germany,3:43.54,223.54,Moscow
+1980,Women's,1000,4,Rositsa Spasova,Bulgaria,3:47.22,227.22,Moscow
+1980,Women's,1000,5,Beryl Mitchell,Great Britain,3:49.71,229.71,Moscow
+1980,Women's,1000,6,Beata Dziadura,Poland,3:51.45,231.45,Moscow
+1984,Men's,2000,1,Pertti Karppinen,Finland,7:00.24,420.24,Los Angeles
+1984,Men's,2000,2,Peter-Michael Kolbe,West Germany,7:02.19,422.19,Los Angeles
+1984,Men's,2000,3,Robert Mills,Canada,7:10.38,430.38,Los Angeles
+1984,Men's,2000,4,John Biglow,United States,7:12.00,432.0,Los Angeles
+1984,Men's,2000,5,Ricardo Ibarra,Argentina,7:14.59,434.59,Los Angeles
+1984,Men's,2000,6,Konstatinos Kontomanolis,Greece,7:17.03,437.03,Los Angeles
+1988,Men's,2000,1,Thomas Lange,East Germany,6:49.86,409.86,Seoul
+1988,Men's,2000,2,Peter-Michael Kolbe,West Germany,6:54.77,414.77,Seoul
+1988,Men's,2000,3,Eric Verdonk,New Zealand,6:58.66,418.66,Seoul
+1988,Men's,2000,4,Hamish McGlashan,Australia,7:01.43,421.43,Seoul
+1988,Men's,2000,5,Kajetan Broniewski,Poland,7:03.67,423.67,Seoul
+1988,Men's,2000,6,Andrew Sudduth,United States,7:11.45,431.45,Seoul
+1988,Women's,2000,1,Jutta Behrendt,East Germany,7:47.19,467.19,Seoul
+1988,Women's,2000,2,Anne Marden,United States,7:50.28,470.28,Seoul
+1988,Women's,2000,3,Magdalena Georgieva,Bulgaria,7:53.65,473.65,Seoul
+1988,Women's,2000,4,Harriet van Ettekoven,Netherlands,7:57.29,477.29,Seoul
+1988,Women's,2000,5,Marioara Popescu-Ciobanu,Romania,7:59.44,479.44,Seoul
+1988,Women's,2000,6,Inger Pors Olsen,Denmark,7:59.77,479.77,Seoul
+1992,Men's,2000,1,Thomas Lange,Germany,6:51.40,411.4,Barcelona
+1992,Men's,2000,2,Václav Chalupa,Czechoslovakia,6:52.93,412.93,Barcelona
+1992,Men's,2000,3,Kajetan Broniewski,Poland,6:56.82,416.82,Barcelona
+1992,Men's,2000,4,Eric Verdonk,New Zealand,6:57.45,417.45,Barcelona
+1992,Men's,2000,5,Jüri Jaanson,Estonia,7:12.92,432.92,Barcelona
+1992,Men's,2000,6,Sergio Fernández,Argentina,7:15.53,435.53,Barcelona
+1992,Women's,2000,1,Elisabeta Lipă,Romania,7:25.54,445.54,Barcelona
+1992,Women's,2000,2,Annelies Bredael,Belgium,7:26.64,446.64,Barcelona
+1992,Women's,2000,3,Silken Laumann,Canada,7:28.85,448.85,Barcelona
+1992,Women's,2000,4,Anne Marden,United States,7:29.84,449.84,Barcelona
+1992,Women's,2000,5,Maria Brandin,Sweden,7:37.55,457.55,Barcelona
+1992,Women's,2000,6,Corinne Le Moal,France,7:41.85,461.85,Barcelona
+1996,Men's,2000,1,Xeno Müller,Switzerland,6:44.85,404.85,Atlanta
+1996,Men's,2000,2,Derek Porter,Canada,6:47.45,407.45,Atlanta
+1996,Men's,2000,3,Thomas Lange,Germany,6:47.72,407.72,Atlanta
+1996,Men's,2000,4,Iztok Čop,Slovenia,6:51.71,411.71,Atlanta
+1996,Men's,2000,5,Václav Chalupa,Czech Republic,6:55.65,415.65,Atlanta
+1996,Men's,2000,6,Fredrik Bekken,Norway,6:59.51,419.51,Atlanta
+1996,Women's,2000,1,Ekaterina Khodotovich,Belarus,7:32.31,452.31,Atlanta
+1996,Women's,2000,2,Silken Laumann,Canada,7:35.15,455.15,Atlanta
+1996,Women's,2000,3,Trine Hansen,Denmark,7:37.20,457.2,Atlanta
+1996,Women's,2000,4,Maria Brandin,Sweden,7:42.58,462.58,Atlanta
+1996,Women's,2000,5,Guin Batten,Great Britain,7:45.08,465.08,Atlanta
+1996,Women's,2000,6,Ruth Davidon,United States,7:46.47,466.47,Atlanta
+2000,Men's,2000,1,Rob Waddell,New Zealand,6:48.90,408.9,Sydney
+2000,Men's,2000,2,Xeno Müller,Switzerland,6:50.55,410.55,Sydney
+2000,Men's,2000,3,Marcel Hacker,Germany,6:50.83,410.83,Sydney
+2000,Men's,2000,4,Derek Porter,Canada,6:51.10,411.1,Sydney
+2000,Men's,2000,5,Ivo Yanakiev,Bulgaria,6:57.32,417.32,Sydney
+2000,Men's,2000,6,Jüri Jaanson,Estonia,6:59.15,419.15,Sydney
+2000,Women's,2000,1,Ekaterina Karsten,Belarus,7:28.14,448.14,Sydney
+2000,Women's,2000,2,Rumyana Neykova,Bulgaria,7:28.15,448.15,Sydney
+2000,Women's,2000,3,Katrin Rutschow-Stomporowski,Germany,7:28.99,448.99,Sydney
+2000,Women's,2000,4,Yulia Alexandrova,Russia,7:36.57,456.57,Sydney
+2000,Women's,2000,5,Gina Douglas,Australia,7:37.88,457.88,Sydney
+2000,Women's,2000,6,Sonia Waddell,New Zealand,7:43.71,463.71,Sydney
+2004,Men's,2000,1,Olaf Tufte,Norway,6:49.30,409.3,Athens
+2004,Men's,2000,2,Jüri Jaanson,Estonia,6:51.42,411.42,Athens
+2004,Men's,2000,3,Ivo Yanakiev,Bulgaria,6:52.80,412.8,Athens
+2004,Men's,2000,4,Santiago Fernández,Argentina,6:55.17,415.17,Athens
+2004,Men's,2000,5,Václav Chalupa,Czech Republic,6:59.13,419.13,Athens
+2004,Men's,2000,6,Tim Maeyens,Belgium,7:01.74,421.74,Athens
+2004,Women's,2000,1,Katrin Rutschow-Stomporowski,Germany,7:18.12,438.12,Athens
+2004,Women's,2000,2,Ekaterina Karsten,Belarus,7:22.04,442.04,Athens
+2004,Women's,2000,3,Rumyana Neykova,Bulgaria,7:23.10,443.1,Athens
+2004,Women's,2000,4,Miroslava Knapková,Czech Republic,7:25.14,445.14,Athens
+2004,Women's,2000,5,Sonia Waddell,New Zealand,7:31.66,451.66,Athens
+2004,Women's,2000,6,Nuria Domínguez,Spain,7:49.11,469.11,Athens
+2008,Men's,2000,1,Olaf Tufte,Norway,6:59.83,419.83,Beijing
+2008,Men's,2000,2,Ondřej Synek,Czech Republic,7:00.63,420.63,Beijing
+2008,Men's,2000,3,Mahé Drysdale,New Zealand,7:01.56,421.56,Beijing
+2008,Men's,2000,4,Tim Maeyens,Belgium,7:03.40,423.4,Beijing
+2008,Men's,2000,5,Alan Campbell,Great Britain,7:04.47,424.47,Beijing
+2008,Men's,2000,6,Lassi Karonen,Sweden,7:07.64,427.64,Beijing
+2008,Women's,2000,1,Rumyana Neykova,Bulgaria,7:22.34,442.34,Beijing
+2008,Women's,2000,2,Michelle Guerette,United States,7:22.78,442.78,Beijing
+2008,Women's,2000,3,Ekaterina Karsten,Belarus,7:23.98,443.98,Beijing
+2008,Women's,2000,4,Zhang Xiuyun,China,7:25.48,445.48,Beijing
+2008,Women's,2000,5,Miroslava Knapková,Czech Republic,7:35.52,455.52,Beijing
+2008,Women's,2000,6,Julia Michalska,Poland,7:43.44,463.44,Beijing
+2012,Men's,2000,1,Mahé Drysdale,New Zealand,6:57.82,417.82,London
+2012,Men's,2000,2,Ondřej Synek,Czech Republic,6:59.37,419.37,London
+2012,Men's,2000,3,Alan Campbell,Great Britain,7:03.28,423.28,London
+2012,Men's,2000,4,Lassi Karonen,Sweden,7:04.04,424.04,London
+2012,Men's,2000,5,Aleksandar Aleksandrov,Azerbaijan,7:09.42,429.42,London
+2012,Men's,2000,6,Marcel Hacker,Germany,7:10.21,430.21,London
+2012,Women's,2000,1,Miroslava Knapková,Czech Republic,7:54.37,474.37,London
+2012,Women's,2000,2,Fie Udby Erichsen,Denmark,7:57.72,477.72,London
+2012,Women's,2000,3,Kim Crow,Australia,7:58.04,478.04,London
+2012,Women's,2000,4,Emma Twigg,New Zealand,8:01.76,481.76,London
+2012,Women's,2000,5,Ekaterina Karsten,Belarus,8:02.86,482.86,London
+2012,Women's,2000,6,Zhang Xiuyun,China,8:03.10,483.1,London
+2016,Men's,2000,1,Mahé Drysdale,New Zealand,6:41.34,401.34,Rio de Janeiro
+2016,Men's,2000,2,Damir Martin,Croatia,6:41.34,401.34,Rio de Janeiro
+2016,Men's,2000,3,Ondřej Synek,Czech Republic,6:44.10,404.1,Rio de Janeiro
+2016,Men's,2000,4,Hannes Obreno,Belgium,6:47.42,407.42,Rio de Janeiro
+2016,Men's,2000,5,Stanislau Shcharbachenia,Belarus,6:48.78,408.78,Rio de Janeiro
+2016,Men's,2000,6,Ángel Fournier,Cuba,6:55.90,415.9,Rio de Janeiro
+2016,Women's,2000,1,Kim Brennan,Australia,7:21.54,441.54,Rio de Janeiro
+2016,Women's,2000,2,Genevra Stone,United States,7:22.92,442.92,Rio de Janeiro
+2016,Women's,2000,3,Duan Jingli,China,7:24.13,444.13,Rio de Janeiro
+2016,Women's,2000,4,Emma Twigg,New Zealand,7:24.48,444.48,Rio de Janeiro
+2016,Women's,2000,5,Jeannine Gmelin,Switzerland,7:29.69,449.69,Rio de Janeiro
+2016,Women's,2000,6,Magdalena Lobnig,Austria,7:34.86,454.86,Rio de Janeiro
+2020,Men's,2000,1,Stefanos Ntouskos,Greece,6:40.45,400.45,Tokyo
+2020,Men's,2000,2,Kjetil Borch,Norway,6:41.66,401.66,Tokyo
+2020,Men's,2000,3,Damir Martin,Croatia,6:42.58,402.58,Tokyo
+2020,Men's,2000,4,Sverri Sandberg Nielsen,Denmark,6:42.73,402.73,Tokyo
+2020,Men's,2000,5,Aleksandr Vyazovkin,ROC,6:49.09,409.09,Tokyo
+2020,Men's,2000,6,Mindaugas Griškonis,Lithuania,6:57.60,417.6,Tokyo
+2020,Women's,2000,1,Emma Twigg,New Zealand,7:13.97,433.97,Tokyo
+2020,Women's,2000,2,Hanna Prakatsen,ROC,7:17.39,437.39,Tokyo
+2020,Women's,2000,3,Magdalena Lobnig,Austria,7:19.72,439.72,Tokyo
+2020,Women's,2000,4,Victoria Thornley,Great Britain,7:20.39,440.39,Tokyo
+2020,Women's,2000,5,Jeannine Gmelin,Switzerland,7:20.91,440.91,Tokyo
+2020,Women's,2000,6,Jiang Yan,China,7:21.33,441.33,Tokyo
+2024,Men's,2000,1,Oliver Zeidler,Germany,6:37.57,397.57,Paris
+2024,Men's,2000,2,Yauheni Zalaty,Individual Neutral Athletes,6:42.96,402.96,Paris
+2024,Men's,2000,3,Simon van Dorp,Netherlands,6:44.72,404.72,Paris
+2024,Men's,2000,4,Tim Brys,Belgium,6:48.44,408.44,Paris
+2024,Men's,2000,5,Tom Mackintosh,New Zealand,6:49.62,409.62,Paris
+2024,Men's,2000,6,Stefanos Ntouskos,Greece,7:02.05,422.05,Paris
+2024,Women's,2000,1,Karolien Florijn,Netherlands,7:17.28,437.28,Paris
+2024,Women's,2000,2,Emma Twigg,New Zealand,7:19.14,439.14,Paris
+2024,Women's,2000,3,Viktorija Senkutė,Lithuania,7:20.85,440.85,Paris
+2024,Women's,2000,4,Tara Rigney,Australia,7:21.38,441.38,Paris
+2024,Women's,2000,5,Kara Kohler,United States,7:25.07,445.07,Paris
+2024,Women's,2000,6,Desislava Angelova,Bulgaria,7:33.19,453.19,Paris
